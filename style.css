@@ -148,3 +148,19 @@ button.not-read:hover {
 button.remove:hover {
     background-color: rgb(121, 121, 121);
 }
+
+button.read {
+    background-color: #5bc257;
+}
+
+button.read:hover {
+    background-color: #4a9c47;
+}
+
+button.in-progress {
+    background-color: #dfc05c;
+}
+
+button.in-progress:hover {
+    background-color: #c2a854;
+}

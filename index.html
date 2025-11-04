@@ -28,14 +28,14 @@
                 <div class="field-3">
                     <label for="status">Status</label>
                     <select id="status" name="status">
-                        <option value="read">Read</option>
-                        <option value="read">Not read</option>
-                        <option value="read">In progress</option>
+                        <option value="Read">Read</option>
+                        <option value="Not read">Not read</option>
+                        <option value="In progress">In progress</option>
                     </select>
                 </div>
             </div>
             <div class="second-line">
-                <button type="submit" id="add">Add new book</button>
+                <button type="button" id="add">Add new book</button>
             </div>
         </section>
         
@@ -43,12 +43,11 @@
             <div class="first-card">
                 <p>"Thus Spoke Zarathustra"</p>
                 <p>Friedrich Nietzsche</p>
-                <button id="status" class="not-read">Not read</button>
-                <button class="remove">Remove</button>
+                <button id="statusButton" class="not-read">Not read</button>
+                <button id="remove" class="remove">Remove</button>
             </div>
-            <div></div>
-            <div></div>
         </section>
     </main>
+    <script src="script.js"></script>
 </body>
 </html>
