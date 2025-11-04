@@ -1,5 +1,10 @@
 /* how to maintain the cards displaying even when you reload the page,
+	Write a function that loops through the array and displays each book on the page.
+
 how to put the same configurations to the first card in the script
+	USE IT A CONST DEFAULT = {}
+
+all of your book objects should have a unique id, which can be generated using crypto.randomUUID().
 */
 
 const bookInput = document.getElementById('book');
