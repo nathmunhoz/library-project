@@ -4,6 +4,8 @@ A simple and interactive **Book Library** built with **HTML, CSS, and JavaScript
 
 Books are saved in **localStorage**, so your library stays even after reloading the page!
 
+<img width="1440" height="735" alt="image" src="https://github.com/user-attachments/assets/7ff6ee63-524f-4df8-b5a5-6098d739ac24" />
+
 ---
 
 ## Features
@@ -17,10 +19,10 @@ Books are saved in **localStorage**, so your library stays even after reloading 
 
 ---
 
-## 💡 Future Improvements
+## Future Improvements
 
-* ✅ Add book covers or images
-* 🔎 Search/filter books
-* 🕹️ Sort by title, author, or status
-* 📱 Better mobile responsiveness
-* 🌙 Dark mode toggle
+* Add book covers or images
+* Search/filter books
+* Sort by title, author, or status
+* Better mobile responsiveness
+* Dark mode toggle
